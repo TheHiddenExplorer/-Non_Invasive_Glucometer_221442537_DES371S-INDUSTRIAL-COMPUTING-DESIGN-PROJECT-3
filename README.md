@@ -1,0 +1,2 @@
+# -Non_Invasive_Glucometer_221442537_DES371S-INDUSTRIAL-COMPUTING-DESIGN-PROJECT-3
+This is a repository for my Non Invasive Glucometer project - DES371S-INDUSTRIAL-COMPUTING-DESIGN-PROJECT-3
